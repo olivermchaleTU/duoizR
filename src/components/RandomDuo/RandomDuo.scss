@@ -1,0 +1,11 @@
+@import '../../styles/colors';
+.random-container {
+  padding: 40px;
+  background-color: $color-primary-blue;
+  color: white;
+  text-align: center;
+
+  .champions {
+    background-color: $color-tertiary-blue;
+  }
+}

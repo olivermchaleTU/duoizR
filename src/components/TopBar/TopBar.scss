@@ -1,0 +1,16 @@
+@import '../../styles/colors';
+
+.navbar {
+  top: 0px;
+  left: 0px;
+  height: 50px;
+  width: 100%;
+  display: flex;
+  background-color: $color-tertiary-blue;
+  justify-content: center;
+  align-items: center;
+
+  .navbar-text {
+    color: white;
+  }
+}
